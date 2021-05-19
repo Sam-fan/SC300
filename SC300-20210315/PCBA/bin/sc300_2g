@@ -1,0 +1,12 @@
+interface=wlan0
+driver=nl80211
+hw_mode=b
+ieee80211n=1
+wmm_enabled=1
+country_code=US
+wpa=2
+wpa_key_mgmt=WPA-PSK
+rsn_pairwise=CCMP
+ssid=sc300_2g
+wpa_passphrase=samf1234
+channel=4

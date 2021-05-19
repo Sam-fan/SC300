@@ -1,0 +1,22 @@
+#SC300 PCBA Testing Fixture Critieria
+#Version: 202000927
+#Nortek Control
+!!!DO NOT CHANGE WITHOUT CONFIRMATION OF NSC RD!!!
+
+
+freqwifi_range=[2400000000,2420000000]
+powerwifi_range=[-20,-5]
+iperfeth_range=[80,300]
+
+tp28_range=[4.8,5.5]
+dc1_range=[11,13]
+poe1_range=[11,13]
+sensevol_range=[10.5,12]
+relayvol_range=[3,3.6]
+spkthd_range=[0.00001,0.9]
+spkamp_range=[-17,10]
+sensevol_range=[11,12]
+bspversion=20200624015557
+
+
+
